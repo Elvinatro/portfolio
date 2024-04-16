@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9e5f823d.css",
+    "main.js": "/portfolio/static/js/main.13641f1a.js",
+    "static/js/787.25eaef86.chunk.js": "/portfolio/static/js/787.25eaef86.chunk.js",
+    "static/media/img-1.jpeg": "/portfolio/static/media/img-1.0566085d1a447b74ff1a.jpeg",
+    "static/media/img-3.jpeg": "/portfolio/static/media/img-3.fdf0e23eb6904f128582.jpeg",
+    "static/media/img-2.jpeg": "/portfolio/static/media/img-2.22990cf17072e87f3e96.jpeg",
+    "static/media/section1Image.jpeg": "/portfolio/static/media/section1Image.2e66ce03fe38b7f82940.jpeg",
+    "static/media/img-4.jpeg": "/portfolio/static/media/img-4.8a19dc5e6d341431c95f.jpeg",
+    "static/media/personal1.jpeg": "/portfolio/static/media/personal1.75572d0ca45091a321aa.jpeg",
+    "static/media/personal3.jpeg": "/portfolio/static/media/personal3.1058140a9c3d6b714046.jpeg",
+    "static/media/personal2.jpeg": "/portfolio/static/media/personal2.c099ade2afb7136b4210.jpeg",
+    "static/media/stairs.jpeg": "/portfolio/static/media/stairs.a659cefffc4cd0bfae3b.jpeg",
+    "static/media/window.jpeg": "/portfolio/static/media/window.89035129442c6da0b40b.jpeg",
+    "static/media/rectangle.jpeg": "/portfolio/static/media/rectangle.7dbfea6ffb871e765d3f.jpeg",
+    "static/media/deco.jpeg": "/portfolio/static/media/deco.0c27d693d801b44ab35c.jpeg",
+    "static/media/circle.jpeg": "/portfolio/static/media/circle.bc5b3bc443cd0e10730b.jpeg",
+    "static/media/silverball.jpeg": "/portfolio/static/media/silverball.82c9a90fe597caf9fd98.jpeg",
+    "static/media/SpriteIcons.svg": "/portfolio/static/media/SpriteIcons.e0c8752b53326c7585d076960bd5b131.svg",
+    "index.html": "/portfolio/index.html",
+    "main.9e5f823d.css.map": "/portfolio/static/css/main.9e5f823d.css.map",
+    "main.13641f1a.js.map": "/portfolio/static/js/main.13641f1a.js.map",
+    "787.25eaef86.chunk.js.map": "/portfolio/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e5f823d.css",
+    "static/js/main.13641f1a.js"
+  ]
+}
